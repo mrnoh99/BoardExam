@@ -13,6 +13,7 @@
 		7C5A603720296C43008B7D48 /* BoardExam.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7C5A603520296C43008B7D48 /* BoardExam.xcdatamodeld */; };
 		7C5A603920296C43008B7D48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C5A603820296C43008B7D48 /* Assets.xcassets */; };
 		7C5A603C20296C43008B7D48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C5A603A20296C43008B7D48 /* LaunchScreen.storyboard */; };
+		7C5A604420296C62008B7D48 /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5A604320296C62008B7D48 /* Questions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7C5A603820296C43008B7D48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C5A603B20296C43008B7D48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C5A603D20296C43008B7D48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C5A604320296C62008B7D48 /* Questions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7C5A602E20296C43008B7D48 /* AppDelegate.swift */,
 				7C5A603020296C43008B7D48 /* ViewController.swift */,
 				7C5A603220296C43008B7D48 /* Main.storyboard */,
+				7C5A604320296C62008B7D48 /* Questions.swift */,
 				7C5A603820296C43008B7D48 /* Assets.xcassets */,
 				7C5A603A20296C43008B7D48 /* LaunchScreen.storyboard */,
 				7C5A603D20296C43008B7D48 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C5A603120296C43008B7D48 /* ViewController.swift in Sources */,
+				7C5A604420296C62008B7D48 /* Questions.swift in Sources */,
 				7C5A603720296C43008B7D48 /* BoardExam.xcdatamodeld in Sources */,
 				7C5A602F20296C43008B7D48 /* AppDelegate.swift in Sources */,
 			);
